@@ -4,3 +4,10 @@
 
 
 Welcome to the Unofficial USW FAQ! here, you'll find common issues found within the USW, how to fix them, and a few external links to helpful resources.
+
+
+
+## Directory
+
+
+(add problems w/ their links here guys
