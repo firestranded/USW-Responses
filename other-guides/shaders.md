@@ -26,6 +26,5 @@ After you've downloaded them all, move them all into the mods folder you just fo
 You should now see "Mods downloaded: 4" in the bottom left corner. This means you succesfully installed fabric and it's mods :D
 
 The recmomended shaders are the [Complementary Shaders](https://www.curseforge.com/minecraft/customization/complementary-shaders).
-
-After you've downloaded your prefered shaders, you can enable them by dragging the downloaded .zip file into (Pause Menu -> Settings -> Video Settings -> Shader Packs)
+After you've downloaded your prefered shaders, you can enable them by dragging the downloaded .zip file into (Pause Menu -> Settings -> Video Settings -> Shader Packs).
 Enable it by clicking on it, press apply, and enjoy.
