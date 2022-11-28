@@ -26,7 +26,7 @@ Getting messy boxes on your screen? You didn't install the resource pack! (and p
 ### [USW Cartography](https://github.com/FireStranded/USW-Responses/blob/main/responses/cartography.md)
 Looking for a specific place in the USW world? Try the USW cartography website.
 
-### [MC:PE "World Import Failed]()
+### [MC:PE "World Import Failed!"]()
 under construction, please come back later
 
 
