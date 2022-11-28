@@ -18,7 +18,7 @@ Welcome to the Unofficial USW FAQ! here, you'll find common issues found within 
 Need a video tutorial for downloading the map? Here's one!
 
 
-### [Datapack Issues](https://github.com/FireStranded/USW-Responses/blob/main/responses/datapack-tampered.md)
+### [Datapack Issues](https://github.com/FireStranded/USW-Responses/blob/main/responses/datapack.md)
 If you can't play and you keep dying, it's probably a datapack issue. Also, don't extract it.
 
 
