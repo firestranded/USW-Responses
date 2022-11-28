@@ -41,4 +41,4 @@ Step 8: Select the USW folder you created earlier
 
 Step 9: Hit copy 
 
-Step 10: Opent the file from the newly copied folder.
+Step 10: Open the file from the newly copied folder.
