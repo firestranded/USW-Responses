@@ -12,6 +12,11 @@ Welcome to the Unofficial USW FAQ! here, you'll find common issues found within 
 ### [Video Tutorial](https://github.com/FireStranded/USW-Responses/blob/main/responses/video-tutorial.md)
 Need a video tutorial for downloading the map? Here's one!
 
+
+### [Datapack Issues](https://github.com/FireStranded/USW-Responses/blob/main/responses/datapack-tampered.md)
+If you can't play and you keep dying, it's probably a datapack issue. Also, don't extract it.
+
+
 ### [Resource Pack Issues](https://github.com/FireStranded/USW-Responses/blob/main/responses/resourcepack.md)
 Getting messy boxes on your screen? You didn't install the resource pack!
 
@@ -38,10 +43,6 @@ Looking for a server host? Here's some suggestions!
 
 ### [Saves Folder](https://github.com/FireStranded/USW-Responses/blob/main/responses/saves.md)
 World not showing up in singleplayer? You've probably misplaced the world folder.
-
-
-### [Tampered Datapack](https://github.com/FireStranded/USW-Responses/blob/main/responses/datapack-tampered.md)
-If you can't play and you keep dying, it's probably a datapack issue.
 
 
 ### [ServerLoader and USWDP](https://github.com/FireStranded/USW-Responses/blob/main/responses/server-loader-uswdp.md)
