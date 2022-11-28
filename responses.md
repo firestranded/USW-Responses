@@ -11,12 +11,14 @@ tags: resourcepack, bars
 Bars appear like that when you don't have the __resourcepack__ installed correctly
 
 **__If you're on a server:__**
-If you're not on a lan server, then make sure the link corresponding to your player limit is in the resourcepack section of your server.properties file.
+If you're on a spigot/paper server, then install the server loader plugin from https://www.spigotmc.org/resources/usw-server-loader.106454/ and put it in the "plugins" folder of your server. 
+
+If you're not on spigot/paper then make sure the link corresponding to your player limit is in the resourcepack section of your server.properties file.
 > 10 Players: http://resourcepack.host/dl/6OYRoGeXyU7EdAgEtK9gjnQlhUp3H0DY/USWRP-10-PLAYERS.zip
 > 25 Players: http://resourcepack.host/dl/nIJPWxlIiEJxE8aEPTaNqbeQhFEU4LLq/USWRP-25-PLAYERS.zip
 Then, restart your server.
 
-If you're on a lan, make sure everyone downloads the resource pack corresponding to your player limit above, and put it in (Pause Menu -> Video Settings -> Resource Packs -> Open Folder)
+If you're on a LAN server, make sure everyone downloads the resource pack corresponding to your player limit above, and put it in (Pause Menu -> Video Settings -> Resource Packs -> Open Folder)
 
 **__If you're on singleplayer:__**
 The resource pack should've come embedded in the world. Try holding F3+T to reload resource packs. If that doesn't work, try
@@ -169,3 +171,11 @@ Then, you need to click on more options on the lower right.
 You should see something that says Java Arguments and some text below it. You're looking for the text that says  -Xmx2G -XX:
 It should be in the front. In order to allocate more RAM, you need to change the 2 infront of the G. You should allocate around 1/4 of your total computer ram, so it should be 3 for people with 8gb of ram, 4 for people with 16gb of ram, and 8 for people with 32 gb of ram. After you changed the number, you want to hit save and try playing the world again.
 
+=================================================================================================================================
+
+tags: black, texts, vanilla-tweaks
+**ANSWER**
+
+Black text appears when you're using Vanilla Tweaks.
+
+USW currently isn't compatible with Vanilla Tweaks, so you'll have to remove it.
