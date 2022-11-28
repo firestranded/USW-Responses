@@ -38,7 +38,7 @@ To install it, go to Escape/Pause Menu -> Video Settings -> Resource Packs -> Op
 
 
 # Resourcepack Extraction
-
+<sup>tags: extract, resourcepack</sup>
 
 Make sure you __**do not extract**__ the resource pack!
 Simply put the resource pack in your resourcepack folder at: 
