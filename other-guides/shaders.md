@@ -4,7 +4,9 @@ To use shaders on the USW, you'll want to install Iris. Iris is a __fabric__ mod
 To start with installing shaders, you'll want to go to [fabric's website](https://fabricmc.net/use/installer/) and download the installer for your device.
 
 > **Step 1:** Open the installer. On Windows double click the installer, on Mac right click the installer and press Open.
+> 
 > **Step 2:** Make sure your Minecraft Launcher is closed. Select "Client" at the top of the installer and make sure your version is on 1.19.2.
+> 
 > **Step 3:** Make sure create profile is checked and press Install. After it's done installing you can close the installer.
 
 Before installing any mods, you'll want to run your fabric profile for the first time. Start the launcher, and press play. Make sure the installation on the left is set to fabric.
