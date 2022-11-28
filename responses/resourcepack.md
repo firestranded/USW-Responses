@@ -40,7 +40,7 @@ To install it, go to Escape/Pause Menu -> Video Settings -> Resource Packs -> Op
 # Resourcepack Extraction
 
 
-Make sure you **__do not extract**__ the resource pack!
+Make sure you __**do not extract**__ the resource pack!
 Simply put the resource pack in your resourcepack folder at: 
 (Pause Menu -> Video Settings -> Resource Packs -> Open Folder)
 
