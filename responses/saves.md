@@ -6,7 +6,7 @@ If your worlds aren't properly showing up in game, that means you haven't proper
 The easiest way to find your saves folder is in the minecraft launcher.
 Open the Launcher, then go to (Installations -> Latest Release -> Folder Icon to the Right -> Saves)
 
-![](http://festive.needs.rest/r/kuu4z2q8d9a.png)
+![](https://cdn.discordapp.com/attachments/1046567649053782036/1046607342181044264/image.png)
 
 Make sure your world folder is __**unzipped**__ before putting it in the saves folder!
 
