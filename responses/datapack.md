@@ -12,7 +12,9 @@ Forge servers often cause problems that are not USW's fault and we cannot help y
 
 Please try using Vanilla or Fabric.
 
+
 **__This usually means you have a bad datapack.__**
+
 
 If you're on a server:
 > First try deleting the advancements folder of your world.
