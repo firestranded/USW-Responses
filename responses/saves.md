@@ -10,8 +10,8 @@ Open the Launcher, then go to (Installations -> Latest Release -> Folder Icon to
 
 Make sure your world folder is __**unzipped**__ before putting it in the saves folder!
 
-**__Unzipping on Mac:__**:
+**__Unzipping on Mac:__**
 Double click the zipped file.
 
-**__Unzipping on Windows:__**:
+**__Unzipping on Windows:__**
 Right click the zip file and select "Extract All".
