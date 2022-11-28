@@ -10,6 +10,8 @@ tags: resourcepack, bars
 
 Bars appear like that when you don't have the __resourcepack__ installed correctly
 
+Before proceeding, please be aware that Vanilla Tweaks is currently __NOT__ compatible with the USW resource pack.
+
 **__If you're on a server:__**
 If you're on a spigot/paper server, then install the server loader plugin from https://www.spigotmc.org/resources/usw-server-loader.106454/ and put it in the "plugins" folder of your server. 
 
