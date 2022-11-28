@@ -48,4 +48,4 @@ Having lag issues? Could be a memory problem!
 
 
 
-<sub>made with ❤️ by firestranded#1038, Kage#7892, vagueadvice#7710, & Jokedd#4222</sub>
+<sub>made with ❤️ ~~(& :despair:)~~ by firestranded#1038, Kage#7892, vagueadvice#7710, & Jokedd#4222</sub>
