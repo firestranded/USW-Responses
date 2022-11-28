@@ -1,5 +1,5 @@
-# USW-Responses
-<sup>A collection of responses for the #usw-support channel in the TrixyBlox discord server.</sup>
+# USW Help
+<sup>A collection of things for the #usw-support channel in the TrixyBlox discord server.</sup>
 
 
 
