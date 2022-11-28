@@ -17,7 +17,7 @@ Step 5: For Android users, download an app such as FX File Explorer. Your defaul
 
 Step 6: Open the world download file, and it should launch Minecraft automatically. It will take a few minutes, depending on your device, to import the world. When it is done, you will hear an Xbox notification sound, and a bar will appear saying "World imported successfully." You should now be able to open the world as you would your own.
  
-
+<sup>guide credit: RookiePaw#2557 | [#tb-questions](https://discord.gg/trixyblox)</sup>
 
 ### iOS / iPadOS
 
