@@ -1,6 +1,11 @@
 # Tampered Datapack
 <sup>tags: datapack, tampered</sup>
 
+![](https://cdn.discordapp.com/attachments/1046141629070848070/1046166272179707904/unknown.png)
+
+<sup>image credit: CaptainApac#5015 | [#usw-support](https://discord.gg/trixyblox)
+
+
 Before trying any of these, please note that USW was not built to be run on forge servers.
 
 Forge servers often cause problems that are not USW's fault and we cannot help you with.
