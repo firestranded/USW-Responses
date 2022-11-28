@@ -4,7 +4,7 @@
 # "World Import Failed!" - MC:PE
 
 
-### Android: 
+### If you're on Android: 
 
 Step 1: Download the Bedrock world from Trixy Blox's Patreon. Make sure it says ".mcworld.zip" at the end!!
 
@@ -20,7 +20,7 @@ Step 6: Open the world download file, and it should launch Minecraft automatical
 
 
 
-### iOS / iPadOS
+### If you're on iOS / iPadOS:
 
 Step 1: Download the USW world from Trixy Blox's Patreon
 
