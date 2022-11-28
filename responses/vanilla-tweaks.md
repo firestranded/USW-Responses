@@ -1,5 +1,5 @@
+# Vanilla Tweaks
 <sup>tags: black, texts, vanilla-tweaks</sup>
-**ANSWER**
 
 Black text appears when you're using Vanilla Tweaks.
 
