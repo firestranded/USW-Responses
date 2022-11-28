@@ -9,9 +9,9 @@ Bars appear like that when you don't have the __resourcepack__ installed correct
 
 ### **__If you're on a server:__**
 
-If you're on a paper server, then install the server loader plugin from https://www.spigotmc.org/resources/usw-server-loader.106454/ and put it in the "plugins" folder of your server. 
+If you're on a spigot/paper server, then install the server loader plugin from https://www.spigotmc.org/resources/usw-server-loader.106454/ and put it in the "plugins" folder of your server. 
 
-If you're not on paper then make sure the link corresponding to your player limit is in the resourcepack section of your server.properties file.
+If you're not on spigot/paper then make sure the link corresponding to your player limit is in the resourcepack section of your server.properties file.
 You're looking for the line with `resource-pack=` on it, paste the link you need below __after__ the equal sign
 
 > 10 Players: 
