@@ -9,7 +9,7 @@ Welcome to the Unofficial USW FAQ! here, you'll find common issues found within 
 ### **If you need support in the TrixyBlox Discord Server, please make sure to [link your patreon account with discord](https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron-)** 
 
 
-### [__Official USW Installation Guide _(v7)___](https://cdn.discordapp.com/attachments/477635936415645716/1046624421164613693/The_Ultimate_Survival_World_Installation_Guide_v7.pdf)
+### [__Official USW Installation Guide _(v9)___](https://cdn.discordapp.com/attachments/1046141629070848070/1046659708611727412/The_Ultimate_Survival_World_Installation_Guide_v9.pdf)
 
 if you plan to use mods with the USW, please note forge is currently *very* buggy, and fabric is the only one that seems to work
 
