@@ -35,3 +35,14 @@ installing the resourcepack manually from:
 **do not unzip it**
 
 To install it, go to Escape/Pause Menu -> Video Settings -> Resource Packs -> Open Folder and drag the .zip file in there.
+
+
+# Resourcepack Extraction
+
+
+Make sure you do not extract the resource pack!
+Simply put the resource pack in your resourcepack folder at: 
+(Pause Menu -> Video Settings -> Resource Packs -> Open Folder)
+
+Then enable it! You may have to hold F3 and press T to reload your resource packs.
+
