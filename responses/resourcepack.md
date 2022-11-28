@@ -1,11 +1,12 @@
 # Resource Pack
 <sup>tags: resourcepack, bars</sup>
 
-
 ![resourcepacks image](https://cdn.discordapp.com/attachments/1046141629070848070/1046231982348185660/Screenshot_1321.png)
 <sup>image credit: MadCow#3000 | [#usw-support](https://discord.gg/trixyblox)</sup> 
 
 Bars appear like that when you don't have the __resourcepack__ installed correctly
+
+Before proceeding, please be aware that Vanilla Tweaks is currently __NOT__ compatible with the USW resource pack.
 
 ### **__If you're on a server:__**
 
