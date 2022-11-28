@@ -128,7 +128,7 @@ If you're on a server:
 **__For both servers and singleplayer:__**
 
 If the above step hasn't worked and you haven't made any progress on the world, it's most recommended to just reinstall the world completely.
-If you have made progress, then refer to the guide on updating your datapack below:
+If you haven't made progress, then refer to the guide on updating your datapack below:
 
 > First, download the USWDP.zip (ultimate survival world data pack) file from the patreon link that corresponds to your player limit (https://www.patreon.com/TrixyBlox/posts)
 > 
