@@ -23,22 +23,22 @@ Step 6: Open the world download file, and it should launch Minecraft automatical
 
 
  
-1 Download the USW 
+Step 1: Download the USW 
 
-2 Open files
+Step 2: Open files
 
-3 click “On My iPad/iPhone/iPod” 
+Step 3: click “On My iPad/iPhone/iPod” 
 
-4 Open the Minecraft Folder 
+Step 4: Open the Minecraft Folder 
 
-5 Open the "Worlds" folder
+Step 5: Open the "Worlds" folder
 
-6 Create a new folder in Worlds called “USW” 
+Step 6: Create a new folder in Worlds called “USW” 
 
-7 Find your download and long press to choose the “Move” option 
+Step 7: Find your download and long press to choose the “Move” option 
 
-8 Select the USW folder you created earlier
+Step 8: Select the USW folder you created earlier
 
-9 Hit copy 
+Step 9: Hit copy 
 
-10 profit
+Step 10: Opent the file from the newly copied folder.
