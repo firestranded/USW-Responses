@@ -9,6 +9,10 @@ Welcome to the Unofficial USW FAQ! here, you'll find common issues found within 
 
 ## Directory
 
-### [Resource Pack Issues](https://github.com/FireStranded/USW-Responses/blob/main/resourcepack.md#resource-pack)
+Getting messy boxes on your screen? You didn't install the resource pack!
 
-getting messy boxes on your screen? you didnt install the resource pack.
+### [Resource Pack Issues](https://github.com/FireStranded/USW-Responses/blob/main/responses/resourcepack.md)
+
+Looking for a specific place in the USW world? Try the USW cartography website!
+
+### [USW Cartography](https://github.com/FireStranded/USW-Responses/blob/main/responses/cartography)
