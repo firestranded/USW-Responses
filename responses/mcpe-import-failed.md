@@ -6,7 +6,6 @@
 
 ### Android: 
 
-
 Step 1: Download the Bedrock world from Trixy Blox's Patreon. Make sure it says ".mcworld.zip" at the end!!
 
 Step 2: Go to your Downloads Folder in whatever your default file manager is. On Android, it may be "Files", "My Files", or "Downloads". On Windows, it should be your File Explorer. Look for the world you downloaded. You can sort your downloads by date or name, or search for the name.
@@ -19,26 +18,22 @@ Step 6: Open the world download file, and it should launch Minecraft automatical
  
 <sup>guide credit: RookiePaw#2557 | [#tb-questions](https://discord.gg/trixyblox)</sup>
 
+
+
 ### iOS / iPadOS
 
+Step 1: Download the USW world from Trixy Blox's Patreon
 
- 
-Step 1: Download the USW 
+Step 2: Open the Files app
 
-Step 2: Open files
+Step 3: Click “On My iPad/iPhone/iPod” 
 
-Step 3: click “On My iPad/iPhone/iPod” 
+Step 4: Open the Minecraft Folder, then the Worlds folder
 
-Step 4: Open the Minecraft Folder 
+Step 5: Create a new folder in Worlds called “USW” 
 
-Step 5: Open the "Worlds" folder
+Step 6: Find your download and long press to choose the “Move” option 
 
-Step 6: Create a new folder in Worlds called “USW” 
+Step 7: Select the USW folder you created earlier and hit "Copy"
 
-Step 7: Find your download and long press to choose the “Move” option 
-
-Step 8: Select the USW folder you created earlier
-
-Step 9: Hit copy 
-
-Step 10: Open the file from the newly copied folder.
+Step 8: Open the file from the newly copied folder.
