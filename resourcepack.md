@@ -1,7 +1,6 @@
 # Resource Pack
 <sup>tags: resourcepack, bars</sup>
 
-<sup>author: vagueadvice#7710</sup>
 
 ![resourcepacks image](https://cdn.discordapp.com/attachments/1046141629070848070/1046231982348185660/Screenshot_1321.png)
 <sup>image credit: MadCow#3000 | [#usw-support](https://discord.gg/trixyblox)</sup> 
