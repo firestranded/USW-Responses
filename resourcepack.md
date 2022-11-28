@@ -7,7 +7,10 @@
 Bars appear like that when you don't have the __resourcepack__ installed correctly
 
 **__If you're on a server:__**
-If you're not on a lan server, then make sure the link corresponding to your player limit is in the resourcepack section of your server.properties file.
+make sure the link corresponding to your player limit is in the resourcepack section of your server.properties file.
+
+you're looking for the line with `resource-pack=` on it, paste the link you need below __after__ the equal sign
+
 > 10 Players: http://resourcepack.host/dl/6OYRoGeXyU7EdAgEtK9gjnQlhUp3H0DY/USWRP-10-PLAYERS.zip
 > 25 Players: http://resourcepack.host/dl/nIJPWxlIiEJxE8aEPTaNqbeQhFEU4LLq/USWRP-25-PLAYERS.zip
 Then, restart your server.
