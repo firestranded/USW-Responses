@@ -6,6 +6,9 @@
 Welcome to the Unofficial USW FAQ! here, you'll find common issues found within the USW, how to fix them, and a few external links to helpful resources.
 
 
+**If you need support in the TrixyBlox Discord Server, please make sure to [link your patreon account with discord](https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron-)** 
+
+
 ### [__Official USW Installation Guide _(v6)___](https://cdn.discordapp.com/attachments/477635936415645716/1046243981828296714/The_Ultimate_Survival_World_Installation_Guide_v6.pdf)
 
 
