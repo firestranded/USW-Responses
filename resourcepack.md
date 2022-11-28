@@ -31,4 +31,6 @@ installing the resourcepack manually from:
 
 > 25 Players: http://resourcepack.host/dl/nIJPWxlIiEJxE8aEPTaNqbeQhFEU4LLq/USWRP-25-PLAYERS.zip
 
+**do not unzip it**
+
 To install it, go to Escape/Pause Menu -> Video Settings -> Resource Packs -> Open Folder and drag the .zip file in there.
