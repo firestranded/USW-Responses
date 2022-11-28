@@ -11,6 +11,8 @@ Welcome to the Unofficial USW FAQ! here, you'll find common issues found within 
 
 ### [__Official USW Installation Guide _(v6)___](https://cdn.discordapp.com/attachments/477635936415645716/1046243981828296714/The_Ultimate_Survival_World_Installation_Guide_v6.pdf)
 
+if you plan to use mods with the USW, please note forge is currently *very* buggy, and fabric is the only one that seems to work
+
 
 ## Directory
 
