@@ -9,5 +9,6 @@ Welcome to the Unofficial USW FAQ! here, you'll find common issues found within 
 
 ## Directory
 
+### [Resource Pack Issues](https://github.com/FireStranded/USW-Responses/blob/main/resourcepack.md#resource-pack)
 
-(add problems w/ their links here guys
+getting messy boxes on your screen? you didnt install the resource pack.
