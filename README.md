@@ -57,8 +57,8 @@ Having lag issues? Could be a memory problem!
 
 ### [TrixyBlox Discord Server](https://discord.gg/trixyblox)
 
-### [Trixyblox Subreddit](https://reddit.com/r/trixyblox)
+### [TrixyBlox Subreddit](https://reddit.com/r/trixyblox)
 
-
+### [TrixyBlox Patreon](https://patreon.com/TrixyBlox)
 
 <sub>made with ❤️ ~~(& :despair:)~~ by firestranded#1038, Kage#7892, vagueadvice#7710, & Jokedd#4222</sub>
