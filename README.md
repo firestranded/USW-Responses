@@ -18,19 +18,15 @@ If you can't play and you keep dying, it's probably a datapack issue. Also, don'
 
 
 ### [Resource Pack Issues](https://github.com/FireStranded/USW-Responses/blob/main/responses/resourcepack.md)
-Getting messy boxes on your screen? You didn't install the resource pack!
+Getting messy boxes on your screen? You didn't install the resource pack! (and please dont extract this one either)
 
 
 ### [USW Cartography](https://github.com/FireStranded/USW-Responses/blob/main/responses/cartography.md)
 Looking for a specific place in the USW world? Try the USW cartography website.
 
 
-### [Resource Pack Extraction](https://github.com/FireStranded/USW-Responses/blob/main/responses/resourcepack-extract.md)
-Is your resource pack damaged? You're probably trying to extract the resource pack!
-
-
-### [Data Pack Extraction](https://github.com/FireStranded/USW-Responses/blob/main/responses/datapack-extract.md)
-Is your data pack damaged / tampered? You're probably trying to extract the data pack!
+### [Saves Folder](https://github.com/FireStranded/USW-Responses/blob/main/responses/saves.md)
+World not showing up in singleplayer? You've probably misplaced the world folder.
 
 
 ### [Spectator Mode](https://github.com/FireStranded/USW-Responses/blob/main/responses/spectator.md)
@@ -39,10 +35,6 @@ Stuck flying around as a head? You're probably in spectator mode.
 
 ### [Recommended Server Host](https://github.com/FireStranded/USW-Responses/blob/main/responses/server-host.md)
 Looking for a server host? Here's some suggestions!
-
-
-### [Saves Folder](https://github.com/FireStranded/USW-Responses/blob/main/responses/saves.md)
-World not showing up in singleplayer? You've probably misplaced the world folder.
 
 
 ### [ServerLoader and USWDP](https://github.com/FireStranded/USW-Responses/blob/main/responses/server-loader-uswdp.md)
