@@ -45,3 +45,7 @@ Infromation about the USW-ServerLoader.jar and USWDP.zip files!
 
 ### [Memory Issues](https://github.com/FireStranded/USW-Responses/blob/main/responses/memory.md)
 Having lag issues? Could be a memory problem!
+
+
+
+made with ❤️ by firestranded#1038, Kage#7892, vagueadvice#7710, & Jokedd#4222
