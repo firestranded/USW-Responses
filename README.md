@@ -47,5 +47,18 @@ Infromation about the USW-ServerLoader.jar and USWDP.zip files!
 Having lag issues? Could be a memory problem!
 
 
+## Resources
+
+### [USW Cartography Site](https://sites.google.com/view/usw-cartography/home)
+
+### [Death's USW SinglePlayer Download GIF](https://cdn.discordapp.com/attachments/1044219282453700628/1046115172563030136/USW_Basics_and_Download.gif)
+
+<sup>available as a video in the [video tutorial](https://github.com/FireStranded/USW-Responses/blob/main/responses/video-tutorial.md) section</sup>
+
+### [TrixyBlox Discord Server](https://discord.gg/trixyblox)
+
+### [Trixyblox Subreddit](https://reddit.com/r/trixyblox)
+
+
 
 <sub>made with ❤️ ~~(& :despair:)~~ by firestranded#1038, Kage#7892, vagueadvice#7710, & Jokedd#4222</sub>
