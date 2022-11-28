@@ -1,3 +1,4 @@
+# Datapack Extraction
 <sup>tags: extract, datapack</sup>
 
 **__Only do this if your datapack is outdated or if there is an error when you join the world!__**
