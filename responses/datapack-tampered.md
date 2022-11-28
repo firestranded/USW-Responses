@@ -30,8 +30,8 @@ The easiest way to find your saves folder is in the minecraft launcher.
 > Open the Launcher, then go to (Installations -> Latest Release (or whatever profile you're using) -> Folder Icon to the Right -> Saves)
 
 
-# Datapack Extraction
-<sup>tags: extract, datapack</sup>
+# Datapack Switching
+<sup>tags: new, datapack</sup>
 
 **__Only do this if your datapack is outdated or if there is an error when you join the world!__**
 
