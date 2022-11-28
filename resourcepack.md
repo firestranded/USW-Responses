@@ -11,9 +11,13 @@ make sure the link corresponding to your player limit is in the resourcepack sec
 
 you're looking for the line with `resource-pack=` on it, paste the link you need below __after__ the equal sign
 
-> 10 Players: `http://resourcepack.host/dl/6OYRoGeXyU7EdAgEtK9gjnQlhUp3H0DY/USWRP-10-PLAYERS.zip`
+> 10 Players: 
+> 
+> `http://resourcepack.host/dl/6OYRoGeXyU7EdAgEtK9gjnQlhUp3H0DY/USWRP-10-PLAYERS.zip`
 
-> 25 Players: `http://resourcepack.host/dl/nIJPWxlIiEJxE8aEPTaNqbeQhFEU4LLq/USWRP-25-PLAYERS.zip`
+> 25 Players: 
+> 
+> `http://resourcepack.host/dl/nIJPWxlIiEJxE8aEPTaNqbeQhFEU4LLq/USWRP-25-PLAYERS.zip`
 
 Then, restart your server.
 
