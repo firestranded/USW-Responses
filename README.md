@@ -25,7 +25,7 @@ Is your resource pack damaged? You're probably trying to extract the resource pa
 
 
 ### [Data Pack Extraction](https://github.com/FireStranded/USW-Responses/blob/main/responses/datapack-extract.md)
-Is your data pack damaged? You're probably trying to extract the data pack!
+Is your data pack damaged / tampered? You're probably trying to extract the data pack!
 
 
 ### [Spectator Mode](https://github.com/FireStranded/USW-Responses/blob/main/responses/spectator.md)
