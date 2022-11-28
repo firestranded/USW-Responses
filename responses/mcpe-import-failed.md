@@ -24,11 +24,19 @@ Step 6: Open the world download file, and it should launch Minecraft automatical
 
  
 1 downloaded the file 
+
 2 Open files on the IPad 
+
 3 clicked “On My IPad” 
+
 4 Opened Minecraft Folder 
+
 5 Created a new folder in Minecraft called “USW” 
+
 6 Found download and long pressed to Choose the “Move” option 
+
 7 chose the same USW folder 
+
 8 Hit copy 
+
 9 then opened the file from this new folder which worked”
