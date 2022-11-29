@@ -59,6 +59,10 @@ Having lag issues? Could be a memory problem!
 If your dimensions aren't loading correctly, you probably didn't delete the correct files!
 
 
+### [Cheats](https://github.com/FireStranded/USW-Responses/blod/main/responses/cheats.md)
+If you want to enable cheats and use creative mode, here's how.
+
+
 ## Resources
 
 ### [USW Cartography Site](https://sites.google.com/view/usw-cartography/home)
