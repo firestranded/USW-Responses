@@ -32,7 +32,7 @@ Getting messy boxes on your screen? You didn't install the resource pack! (and p
 Looking for a specific place in the USW world? Try the USW cartography website.
 
 ### [MC:PE "World Import Failed!"](https://github.com/FireStranded/USW-Responses/blob/main/responses/mcpe-import-failed.md)
-under construction, please come back later
+If you're getting the World Import Failed issue, here's a solution depending on your device.
 
 
 ### [Saves Folder](https://github.com/FireStranded/USW-Responses/blob/main/responses/saves.md)
@@ -61,6 +61,13 @@ If your dimensions aren't loading correctly, you probably didn't delete the corr
 
 ### [Cheats](https://github.com/FireStranded/USW-Responses/blob/main/responses/cheats.md)
 If you want to enable cheats and use creative mode, here's how.
+
+
+### [Shaders](https://github.com/FireStranded/USW-Responses/blob/main/responses/shaders.md)
+Installing shaders for the first time? Here's a guide!
+
+### [Aternos](https://github.com/FireStranded/USW-Responses/blob/main/responses/aternos.md)
+Having trouble with Aternos? Make sure you're following this carefully.
 
 
 ## Resources
