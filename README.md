@@ -55,6 +55,10 @@ Infromation about the USW-ServerLoader.jar and USWDP.zip files!
 Having lag issues? Could be a memory problem!
 
 
+### [Dimension Issues](https://github.com/FireStranded/USW-Responses/blob/main/responses/dimensions.md)
+If your dimensions aren't loading correctly, you probably didn't delete the correct files!
+
+
 ## Resources
 
 ### [USW Cartography Site](https://sites.google.com/view/usw-cartography/home)
