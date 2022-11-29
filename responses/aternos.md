@@ -5,10 +5,10 @@ If you already attempted to make a server on Aternos, please make sure it is **O
 
 > __Step 1:__ Get the correct world download from the [TrixyBlox Patreon](https://www.patreon.com/TrixyBlox/posts). It should be a zip file named "USW-Java-X-Players". <br />
 > __Step 2:__ Go to the "worlds" section in Aternos and click on the green generate button. Make sure the name is "world" and click generate again. <br />
-> __Step 3:__ Upload the previously downloaded __.zip__ file by clicking the orange "Download" button. Find the __.zip__ file and double click it to select it. <br /> You may get an error here. If it's ID: -1 or ther eis no error, refresh the page and try again. If that doesn't work, try a different browser like Microsoft Edge.
+> __Step 3:__ Upload the previously downloaded __.zip__ file by clicking the orange "Download" button. Find the __.zip__ file and double click it to select it. <br /> You may get an error here. If it's ID: -1 or ther eis no error, refresh the page and try again. If that doesn't work, try a different browser like Microsoft Edge. <br />
 > __Step 4:__ Once the world is uploaded, go to the "Files" section. Go to the server.properties section and scroll down to resourcepacks. Paste the following link that corresponds to the player limit of the world you downloaded.
 >
-> __10 Players:__ http://resourcepack.host/dl/6OYRoGeXyU7EdAgEtK9gjnQlhUp3H0DY/USWRP-10-PLAYERS.zip
+> __10 Players:__ http://resourcepack.host/dl/6OYRoGeXyU7EdAgEtK9gjnQlhUp3H0DY/USWRP-10-PLAYERS.zip <br />
 > __25 Players:__ http://resourcepack.host/dl/nIJPWxlIiEJxE8aEPTaNqbeQhFEU4LLq/USWRP-25-PLAYERS.zip
 >
 >
