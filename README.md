@@ -67,7 +67,7 @@ If you want to enable cheats and use creative mode, here's how.
 Installing shaders for the first time? Here's a guide!
 
 ### [Aternos](https://github.com/FireStranded/USW-Responses/blob/main/responses/aternos.md)
-Having trouble with Aternos? Make sure you're following this carefully. (Under construction! Come back later.)
+Having trouble with Aternos? Make sure you're following this carefully.
 
 
 ## Resources
