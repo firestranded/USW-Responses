@@ -7,7 +7,7 @@ If you already attempted to make a server on Aternos, please make sure it is **O
 >
 > __Step 2:__ Go to the "worlds" section in Aternos and click on the green generate button. Make sure the name is "world" and click generate again. <br />
 >
-> __Step 3:__ Upload the previously downloaded __.zip__ file by clicking the orange "Download" button. Find the __.zip__ file and double click it to select it. <br /> You may get an error here. If it's ID: -1 or ther eis no error, refresh the page and try again. If that doesn't work, try a different browser like Microsoft Edge. <br />
+> __Step 3:__ Upload the previously downloaded __.zip__ file by clicking the orange "Download" button. Find the __.zip__ file and double click it to select it. <br /> You may get an error here. If it's ID: -1 or there is no error, refresh the page and try again. If that doesn't work, try a different browser like Microsoft Edge. <br />
 >
 > __Step 4:__ Once the world is uploaded, go to the "Files" section. Go to the server.properties section and scroll down to resourcepacks. Paste the following link that corresponds to the player limit of the world you downloaded.
 
