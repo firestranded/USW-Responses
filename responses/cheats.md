@@ -10,4 +10,4 @@ Go to (Pause Menu -> Open to Lan -> Cheats ENABLED -> Done)<br />
 You'll have to do this every time you close and open your world on singleplayer.
 
 You can now type /gamemode creative in chat to go into creative.<br />
-You can find a full list of commands at the [official wiki](https://minecraft.fandom.com/wiki/Commands).
+You can find a full list of commands on the [official wiki](https://minecraft.fandom.com/wiki/Commands).
