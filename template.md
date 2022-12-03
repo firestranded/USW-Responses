@@ -7,6 +7,10 @@
 instructions
 > quick note / other instruction
 
+- [ ] unchecked box
+- [x] checked box
+
+
 image
 ![](https://cdn.discordapp.com/attachments/1023438339115847701/1046529416752271370/2022-11-27_15-53.png)
 
