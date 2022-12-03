@@ -27,7 +27,8 @@ After you've done that, make sure to set your launcher to use iris, and you'll b
 
 
 ### Installing Fabric
-To start with installing shaders, you'll want to go to [fabric's website](https://fabricmc.net/use/installer/) and download the installer for your device.
+If you've already installed Iris as a profile, you should skip to "Installing Shaders".
+To start with installing fabric, you'll want to go to [fabric's website](https://fabricmc.net/use/installer/) and download the installer for your device.
 
 > **Step 1:** Open the installer. On Windows double click the installer, on Mac right click the installer and press Open.
 > 
