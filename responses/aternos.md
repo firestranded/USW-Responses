@@ -18,7 +18,7 @@ Go to the "worlds" section in Aternos and click on the green generate button. Ma
 ### __Step 3:__ 
 Upload the previously downloaded __.zip__ file by clicking the orange "Upload" button. Click on zip archive.
  ![image](https://user-images.githubusercontent.com/119267405/205166310-3765aaca-d300-4169-b693-83e4bc2b8c2c.png)
-   Find the __.zip__ file from step 1 and double click it to select it. <br /> You may get an error here. If it's ID: -1 or there is no error, refresh the page and try again. If that doesn't work, try a different browser like Microsoft Edge. <br />
+   Find the __.zip__ file from step 1 and double click it to select it. <br /> You may get an error here. If it's ID: -1 or any other error, refresh the page and try again. If that doesn't work, try a different browser like Microsoft Edge. <br />
 
 ### __Step 4:__ 
 Once the world is uploaded, look to the left of your screen. Go to the "Files" section.
