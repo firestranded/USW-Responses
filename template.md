@@ -9,7 +9,7 @@ instructions
 
 - [ ] unchecked box
 - [x] checked box
-#### Sub-Step
+### Sub-Step
 
 
 \*\*bold** **bold**
