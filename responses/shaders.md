@@ -2,28 +2,26 @@
 
 To use shaders on the USW, you'll want to install Iris. Iris is a __fabric__ mod that is recommended with Sodium.
 
-### Installing Iris as a launcher profile (like optifine)
+### Installing Iris as a Launcher Profile (Like Optifine)
 
-first, head over to [iris' website](https://irisshaders.net/download)
+First, head over to [iris' website](https://irisshaders.net/download).
 
-hit download universal jar, double click on the .jar when it opens
+Click "Download Universal Jar", and double click on the .jar when it finishes downloading.
 
-> for linux/mac you may have to right click on it and set it as an executable
+> For linux/mac you may have to right click on it and set it as an executable.
 
-next:
+**1:** Make sure you're on the "Client" tab.
 
-**1:** make sure you're on the "client tab"
+**2:** Select 1.19.2 or above.
 
-**2:** select 1.19.2 or above 
+**3:** Make sure "Create Profile" is ticked.
 
-**3:** make sure "create profile" is ticked
-
-**4:** hit install
+**4:** Click "Install"
 
 ![](https://cdn.discordapp.com/attachments/1048409910007832707/1048409912843194388/image.png)
 
 
-after you've done that, make sure to set your launcher to use iris, and you'll be set
+After you've done that, make sure to set your launcher to use iris, and you'll be set.
 
 ![](https://cdn.discordapp.com/attachments/1048409910007832707/1048411087927779428/image.png)
 
