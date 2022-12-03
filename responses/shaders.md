@@ -22,6 +22,12 @@ next:
 
 ![](https://cdn.discordapp.com/attachments/1048409910007832707/1048409912843194388/image.png)
 
+
+after you've done that, make sure to set your launcher to use iris, and you'll be set
+
+![](https://cdn.discordapp.com/attachments/1048409910007832707/1048411087927779428/image.png)
+
+
 ### Installing Fabric
 To start with installing shaders, you'll want to go to [fabric's website](https://fabricmc.net/use/installer/) and download the installer for your device.
 
