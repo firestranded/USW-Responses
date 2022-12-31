@@ -31,7 +31,7 @@ If you haven't made progress, then refer to the guide on updating your datapack 
 > 
 > Delete the already existing USWDP.zip File and Replace it with the newly downloaded version.
 
-**If you don't know how to locate your world folder**, it's located in your "__**saves**__"  folder.
+**If you don't know how to locate your world folder**, it's located in your "__**saves**__"  folder, or the root folder of your server.
 
 The easiest way to find your saves folder is in the minecraft launcher.
 > Open the Launcher, then go to (Installations -> Latest Release (or whatever profile you're using) -> Folder Icon to the Right -> Saves)
